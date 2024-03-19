@@ -10,4 +10,4 @@ The features are the following :
 'Baggage handling', 'Checkin service', 'Inflight service',
 'Cleanliness', 'Departure Delay in Minutes', 'Arrival Delay in Minutes',
 
-and the target is the satisfacion
+the target is the satisfacion
