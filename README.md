@@ -3,9 +3,9 @@ Airline satisfaction is a machine learning project using a dataset .csv.
 
 ## Todo :
 for unsupervised learning :
-- Data preprocessing - done (maybe take a look to be sure it's correct) which includes :
-  * Encoding variables
-  * Imputing missing Values
+- Data preprocessing 
+  * Encoding variables :heavy_check_mark:
+  * Imputing missing Values :heavy_check_mark:
   * Feature scaling
   * Outlier removals
   * Feature selection
