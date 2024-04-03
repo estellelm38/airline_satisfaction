@@ -7,7 +7,7 @@ for unsupervised learning :
   * Encoding variables :heavy_check_mark:
   * Imputing missing Values :heavy_check_mark:
   * Feature scaling :heavy_check_mark:
-  * Outlier removals - in progress
+  * Outlier removals :heavy_check_mark:
   * Feature selection
   * Dimensionality reduction
 
