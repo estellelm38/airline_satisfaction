@@ -6,8 +6,8 @@ for unsupervised learning :
 - Data preprocessing 
   * Encoding variables :heavy_check_mark:
   * Imputing missing Values :heavy_check_mark:
-  * Feature scaling
-  * Outlier removals
+  * Feature scaling :heavy_check_mark:
+  * Outlier removals - in progress
   * Feature selection
   * Dimensionality reduction
 
