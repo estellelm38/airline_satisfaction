@@ -8,7 +8,7 @@ for unsupervised learning :
   * Imputing missing Values :heavy_check_mark:
   * Feature scaling :heavy_check_mark:
   * Outlier removals :heavy_check_mark:
-  * Feature selection
+  * Feature selection :heavy_check_mark:
   * Dimensionality reduction
 
 - Fit to different models
