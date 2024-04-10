@@ -9,7 +9,7 @@ for unsupervised learning :
   * Feature scaling :heavy_check_mark:
   * Outlier removals :heavy_check_mark:
   * Feature selection :heavy_check_mark:
-  * Dimensionality reduction
+  * Dimensionality reduction :heavy_check_mark:
 
 - Fit to different models
 - Evaluate the models
