@@ -8,8 +8,9 @@
 <div align="center">Licence 3 MIASHS</div>  
 
 <div align="center">
-   ![logo-uga](pictures/logo-uga.png)
-</div> 
+   ![Logo UGA](pictures/logo-uga.png)
+</div>
+
 
 ## Table des matières
 
