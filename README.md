@@ -35,9 +35,7 @@
 - 7 Annexe
 
 
-## 1 Description du jeu de données et présentation de la problé-
-
-## matique
+## 1 Description du jeu de données et présentation de la problématique
 
 Le jeu de données utilisé est “airline passenger satisfaction” qui décrit la satisfaction des
 passagers à bord d’une compagnie aérienne anonyme. Il s’agit probablement de la compa-
@@ -306,10 +304,7 @@ Le SVM est capable de trouver des frontières de décision complexes et non lin�
 des espaces de grande dimension. Cette méthode est intéressante dans ce cas car elle per-
 met d’atténuer le déséquilibre du jeu de données en pondérant différemment les erreurs
 de classification selon les classes. Ainsi, même si une classe est sous-représentée, le SVM
-peut toujours apprendre efficacement à distinguer entre les classes. De plus, le SVM est ro-
-
-
-buste face au surapprentissage et peut généraliser rapidement et facilement à de nouveaux
+peut toujours apprendre efficacement à distinguer entre les classes. De plus, le SVM est robuste face au surapprentissage et peut généraliser rapidement et facilement à de nouveaux
 exemples une fois entraîné.
 
 ### 3.5 Réseau de neurones (MLP)
@@ -330,13 +325,13 @@ pour mieux correspondre aux étiquettes de sortie désirées.
 Les performances et la capacité de généralisation du modèle sont influencées par diffé-
 rents hyperparamètres. Parmi eux, on trouve le nombre de couches cachées, le nombre de
 neurones par couche, la fonction d’activation utilisée dans chaque couche, ainsi que les
-paramètres d’optimisation tels que le taux d’apprentissage et le batch size. (figure 19)
+paramètres d’optimisation tels que le taux d’apprentissage et le batch size.
 
 Après avoir optimisé le réseau de neurones en sélectionnant les hyperparamètres appro-
-priés, j’ai obtenu une accuracy de 0.93 (figure 20) et une précision de 0.99 (figure 21).
+priés, j’ai obtenu une accuracy de 0.93 et une précision de 0.99.
 Ces résultats soulignent l’efficacité du modèle MLP dans la classification des données, avec
 une précision élevée dans la prédiction des classes. J’ai représenté l’efficacité du réseau de
-neurones à l’aide d’un graphique représentant la courbe loss. (figure 22)
+neurones à l’aide d’un graphique représentant la courbe loss.
 
 ## 4 PCA
 
