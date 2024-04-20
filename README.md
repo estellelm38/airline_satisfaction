@@ -7,7 +7,7 @@
 Université Grenoble Alpes
 Licence 3 MIASHS
 
-![Texte alternatif](chemin/vers/votre/image.png)
+![Texte alternatif](pictures/logo-uga.png)
 
 ## Table des matières
 
