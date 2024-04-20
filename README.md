@@ -110,8 +110,6 @@ pour l’entraînement et la validation du modèle.
 
 J’ai obtenu une accuracy moyenne de 0.93 (figure 10) et une précision moyenne de 0.97 lors de la validation K-fold pour mon modèle KNN et j’ai représenté l’efficacité de ce modèle à l’aide d’un graphique ROC.
 
-## Titre <a id="nomAncre"></a>
-
 Bien que le classifieur KNN soit relativement simple à comprendre, il présente des inconvénients tels que sa sensibilité au bruit et sa lenteur en raison du calcul de toutes les distances pour chaque instance. Cependant, les résultats obtenus fournissent une base solide pour l’analyse et peuvent être utilisés comme point de départ pour des études plus approfondies.
 
 ### 3.2 Classifieur bayésien naïf
