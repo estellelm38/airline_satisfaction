@@ -4,10 +4,10 @@
 ## <div align="center">Dossier de validation</div>
 <div align="center">Estelle Long-Merle | No étudiant : 12106173</div> 
 
-Université Grenoble Alpes
-Licence 3 MIASHS
+<div align="center">!Université Grenoble Alpes</div>  
+<div align="center">!Licence 3 MIASHS</div>  
 
-![Texte alternatif](pictures/logo-uga.png)
+<div align="center">![logo-uga](pictures/logo-uga.png)</div>  
 
 ## Table des matières
 
