@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://github.com/estellelm38/airline_satisfaction/blob/master/pictures/logo-uga.png" alt="logo uga"/>
 </p>
+
 ## Table des matières
 
 - 1 Description du jeu de données et présentation de la problématique
