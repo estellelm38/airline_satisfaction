@@ -7,11 +7,9 @@
 <div align="center">Université Grenoble Alpes</div>  
 <div align="center">Licence 3 MIASHS</div>  
 
-<div align="center">
-   ![Logo UGA](airline_satisfaction/pictures/logo-uga.png)
-</div>
-
-
+<p align="center">
+  <img src="https://github.com/estellelm38/airline_satisfaction/pictures/logo-uga.png" alt="logo uga"/>
+</p>
 ## Table des matières
 
 - 1 Description du jeu de données et présentation de la problématique
