@@ -8,7 +8,7 @@
 <div align="center">Licence 3 MIASHS</div>  
 
 <p align="center">
-  <img src="https://github.com/estellelm38/airline_satisfaction/pictures/logo-uga.png" alt="logo uga"/>
+  <img src="https://github.com/estellelm38/airline_satisfaction/blob/master/pictures/logo-uga.png" alt="logo uga"/>
 </p>
 ## Table des matières
 
