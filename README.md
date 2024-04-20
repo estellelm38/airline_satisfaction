@@ -8,7 +8,7 @@
 <div align="center">Licence 3 MIASHS</div>  
 
 <div align="center">
-   ![Logo UGA](pictures/logo-uga.png)
+   ![Logo UGA](airline_satisfaction/pictures/logo-uga.png)
 </div>
 
 
