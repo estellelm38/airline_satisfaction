@@ -1,15 +1,23 @@
-<div align="center">L3S2 MIASHS - Introduction à l’apprentissage automatique</div> 
+<div align="center">L3S2 MIASHS - Introduction à l’apprentissage automatique</div>
 
 # <div align="center">Application d’algorithmes de classification supervisée pour prédire la satisfaction de passagers d’une compagnie aérienne</div>
-## <div align="center">Dossier de validation</div>
-<div align="center">Estelle Long-Merle | No étudiant : 12106173</div> 
 
-<div align="center">Université Grenoble Alpes</div>  
-<div align="center">Licence 3 MIASHS</div>  
+## <div align="center">Dossier de validation</div>
+
+<div align="center">Estelle Long-Merle | No étudiant : 12106173</div>
+
+<div align="center">Université Grenoble Alpes</div>
+
+<div align="center">Licence 3 MIASHS</div>
 
 <p align="center">
   <img src="https://github.com/estellelm38/airline_satisfaction/blob/master/pictures/logo-uga.png" alt="logo uga"/>
 </p>
+
+
+[lien afficher](#nomAncre)
+
+
 
 ## Table des matières
 
@@ -168,6 +176,7 @@ des données) et un ensemble de test (20% des données), une pratique courante e
 tissage automatique.
 
 
+
 L’hyperparamètre principal de KNN est le nombre de voisins (k), qui détermine le nombre
 d’instances les plus proches à considérer lors de la prédiction. De plus, il est nécessaire de
 choisir une méthode de calcul de la distance, comme la distance euclidienne, la distance
@@ -191,6 +200,8 @@ pour l’entraînement et la validation du modèle.
 J’ai obtenu une accuracy moyenne de 0.93 (figure 10) et une précision moyenne de 0.
 (figure 11) lors de la validation K-fold pour mon modèle KNN et j’ai représenté l’efficacité
 de ce modèle à l’aide d’un graphique ROC. (figure 12)
+
+## Titre <a id="nomAncre"></a>
 
 Bien que le classifieur KNN soit relativement simple à comprendre, il présente des inconvé-
 nients tels que sa sensibilité au bruit et sa lenteur en raison du calcul de toutes les distances
