@@ -4,7 +4,7 @@
 
 ## <div align="center">Dossier de validation</div>
 
-<div align="center">Estelle Long-Merle | No étudiant : 12106173</div>
+<div align="center">Estelle Long-Merle</div>
 
 <div align="center">Université Grenoble Alpes</div>
 
